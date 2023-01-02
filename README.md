@@ -3,13 +3,10 @@
 - Cleaned up file after the below steps were completed: `WC Final 2020 - 08_05_20_CLEANED.xlsx`
 - All trees that were removed were documented in: `edited_and_deleted_trees.xlsx`
 - File used for creating FVS input files: `WC Final 2020 - 08_05_20_CLEANED_FVS_INPUT.xlsx`
-- Basal area calculations for Forest Vegetation Simulator (FVS) and Western Root Disease Model (WRDM) comparison can be found in:  ` mcmurtrs/WoodsCreek/Collected_Data`
-- All FVS/WRDM input files can be found in this directory: ` mcmurtrs/WoodsCreek/FVS_Input_Files`
-- All FVS/WRDM output and log files are in: ` mcmurtrs/WoodsCreek/FVS_Output_Files`
-- All FVS/WRDM files for Apiary are in this directory: `mcmurtrs/WoodsCreek/Apiary`
-- Combined spreadsheets with basal area calculations and FVS/WRDM output values are located in: ` mcmurtrs/WoodsCreek/Combined_Outputs`
-- File containing R code, and combined data used for final graphs is found in: ` mcmurtrs/WoodsCreek/FINAL FVS GRAPHS/`
-- Confidence interval calculations: `mcmurtrs/WoodsCreek/FVS_master_calculations_spreadsheet.xlsx` or `FVS_AVERAGES_AND_STANDARD_ERRORS.xlsx` or `mcmurtrs/WoodsCreek/FVS_master_calculations_spreadsheet_10_24_22`
+- All FVS/WRDM input files can be found in this directory: ` mcmurtrs/Woods_Creek/FVS_Input_Files`
+- All FVS/WRDM output and log files are in: ` mcmurtrs/Woods_Creek/FVS_Output_Files`
+- All FVS/WRDM files for Apiary are in this directory: `mcmurtrs/Woods_Creek/Apiary`
+
 
 # Data Cleanup
 ## Step 1: Initial Tidying Steps
