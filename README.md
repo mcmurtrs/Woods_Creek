@@ -2,7 +2,6 @@
 - Final data sheet before data cleaning adendum was conducted: `WC Final 2020 - 08_05_20.xlsx`
 - Cleaned up file after the below steps were completed: `WC Final 2020 - 08_05_20_CLEANED.xlsx`
 - All trees that were removed were documented in: `edited_and_deleted_trees.xlsx`
-- File used for creating FVS input files: `WC Final 2020 - 08_05_20_CLEANED_FVS_INPUT.xlsx`
 - All FVS/WRDM input files can be found in this directory: ` mcmurtrs/Woods_Creek/FVS_Input_Files`
 - All FVS/WRDM output and log files are in: ` mcmurtrs/Woods_Creek/FVS_Output_Files`
 - All FVS/WRDM files for Apiary are in this directory: `mcmurtrs/Woods_Creek/Apiary`
