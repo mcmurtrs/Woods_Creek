@@ -70,7 +70,7 @@ Current "History" coding conversion for 1990 is:
 
 ![image](https://user-images.githubusercontent.com/49656044/163603749-135c28c2-aec8-4521-89c6-eef7c13ade92.png)
 
-# Parameters for WRDM (Wodds Creek)
+# Parameters for WRDM (Woods Creek)
 ![image](https://user-images.githubusercontent.com/49656044/160974332-ca7210b1-3813-4116-aa9a-531981f9a31c.png)
 
 
