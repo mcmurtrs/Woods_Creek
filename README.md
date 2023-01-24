@@ -4,7 +4,7 @@
 - All trees that were removed were documented in: `edited_and_deleted_trees.xlsx`
 - All FVS/WRDM input files can be found in this directory: ` mcmurtrs/Woods_Creek/FVS_Input_Files`
 - All FVS/WRDM output and log files are in: ` mcmurtrs/Woods_Creek/FVS_Output_Files`
-- All FVS/WRDM files for Apiary are in this directory: `mcmurtrs/Woods_Creek/Apiary`
+- All FVS/WRDM files and log files for Apiary are in this directory: `mcmurtrs/Woods_Creek/Apiary`
 
 
 # Data Cleanup
